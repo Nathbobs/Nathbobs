@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nathaniel Abegunde
-- 👀 I’m interested in Self Driving Cars
-- 🌱 I’m currently learning Data Structures in C and C++. Also learning Java.
+- 👀 Interested in Self Driving Cars
+- 🌱 Currently learning Data Structures in C and C++. Also learning Java.
 - 💞️ I’m looking to collaborate on any beginner friendly c++/Java projects
 - 📫 How to reach me on LinkedIn at https://www.linkedin.com/in/abegundenathaniel/
 
